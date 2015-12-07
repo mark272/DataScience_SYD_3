@@ -1,2 +1,2 @@
 *6th December* and  **Mark Hong**
-[link to GitHun](http://github.com)
+[link to GitHub](http://github.com)
