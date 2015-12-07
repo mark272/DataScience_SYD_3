@@ -1,2 +1,2 @@
-# DataScience_SYD_3
-Data Science Course
+*6th December* and  **Mark Hong**
+[link to GitHun](http://github.com)
